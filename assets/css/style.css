@@ -1,0 +1,32 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+  }
+
+.logo {
+    height: 53px;
+}
+
+h1 {
+    color: #707070;
+}
+
+footer {
+    min-height: 184px;
+}
+
+.card-body2 {
+    height: 45px;
+}
+
+.icons-section {
+    font-size: 4rem;
+}
+
+.icons-section h2 {
+    font-size: 2.6rem;
+}
+
+.logo-footer {
+    width: 4rem;
+}
+
